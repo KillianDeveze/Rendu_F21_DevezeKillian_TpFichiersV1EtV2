@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1549629617 source:c:\users\kiki-\documents\projets code blocks\tp_fichiers\tp_fichiers\fichier.c
+	"Fichier.h"
+
+1549629549 c:\users\kiki-\documents\projets code blocks\tp_fichiers\tp_fichiers\fichier.h
+	<string.h>
+	"Structure.h"
+
+1549357229 c:\users\kiki-\documents\projets code blocks\tp_fichiers\tp_fichiers\structure.h
+	<stdio.h>
+	<stdlib.h>
+
+1549629645 source:c:\users\kiki-\documents\projets code blocks\tp_fichiers\tp_fichiers\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Structure.h"
+	"Fichier.h"
+
+1549297951 source:c:\users\kiki-\documents\projets code blocks\tp_fichiers\tp_fichiers\structure.c
+	"Structure.h"
+
+1549629576 source:c:\users\kiki-\documents\projets code blocks\tp_fichiers\tp_fichiers\affichage.c
+	"Affichage.h"
+	"Fichier.h"
+
+1549629328 c:\users\kiki-\documents\projets code blocks\tp_fichiers\tp_fichiers\affichage.h
+	"Fichier.h"
+
+1549629131 source:c:\users\kiki-\documents\projets code blocks\tp_fichiers\tp_fichiers\affichage.h
+	"Fichier.h"
+
